@@ -6,7 +6,7 @@ This is ZenPack that only serves as an example of how to have Zenoss automatical
 
 The only relevant files are:
 
- * ZenPacks/example/ModelCProperty/__init__.py
+ * ZenPacks/example/ModelCProperty/\_\_init\_\_.py
  * ZenPacks/example/ModelCProperty/modeler/plugins/example/CustomProperty.py
 
 ### __init__.py
